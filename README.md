@@ -3,6 +3,8 @@
 ## EthernetServers介绍
 EthernetServers Limited是一家自2014年以来提供多样化主机解决方案的注册公司，从cPanel共享主机到Linux虚拟私人服务器。他们的平台使用最新的尖端技术，提供超快速度和高性能的服务器体验，不使用过时的RAID、BIOS或IPMI固件。
 
+![image](https://github.com/nimmoxvwqyem/EthernetServers/assets/167662699/8deffcdc-e368-4401-bb16-b89e09cfa4bc)
+
 ## EthernetServers官网地址
 [https://www.ethernetservers.com](https://www.ethernetservers.com/clients/aff.php?aff=2333)
 
